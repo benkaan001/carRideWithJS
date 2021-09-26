@@ -10,6 +10,8 @@
 
 // step 6 create a game element to move
 
+// step 7 set Atrribute for the car
+
 var score = document.querySelector(".score");
 
 var startScreen = document.querySelector(".startScreen");
@@ -88,6 +90,8 @@ function start(){
     // step 6 create the car element and append to gameArea object div
     let car = document.createElement("div");
     car.innerText = "Car";
+    //step 7 set attribute
+    car.setAttribute("class","car");
     gameArea.appendChild(car);
 }
 
