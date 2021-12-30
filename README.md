@@ -23,7 +23,7 @@ Fun small word association game build with React. The application comes with a t
 
 ## Tests
 
-![image](https://github.com/benkaan001/words-in-REACT/blob/main/assets/giffy.gif)
+![image](https://github.com/benkaan001/words-in-REACT/blob/main/words-in-react/assets/giffy.gif)
 
 Run `npm install` to install all the dependencies.
 
