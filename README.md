@@ -1,4 +1,4 @@
-<h1 align="center">REACT && EXPRESS && AXIOS </h1>
+<h1 align="center">REACT || EXPRESS || AXIOS </h1>
 <h2 align="center">Words in REACT</h2>
   
 <p align="center">
@@ -23,7 +23,7 @@ Fun small word association game build with React. The application comes with a t
 
 ## Tests
 
-![image](https://github.com/benkaan001/words-in-react/blob/main/assets/giffy.gif)
+![image](https://github.com/benkaan001/words-in-REACT/blob/main/assets/giffy.gif)
 
 Run `npm install` to install all the dependencies.
 
