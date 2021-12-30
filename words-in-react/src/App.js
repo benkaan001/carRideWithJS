@@ -1,14 +1,13 @@
-import './App.css';
-import Game from './components/Game';
-import Cards from './components/Cards';
+import React from 'react';
 
-function App() {
+import Game from './components/Game';
+
+const App = () => {
   return (
-    <div className='App'>
+    <>
       <Game />
-      <Cards />
-    </div>
+    </>
   );
-}
+};
 
 export default App;
