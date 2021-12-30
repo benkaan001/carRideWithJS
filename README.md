@@ -19,7 +19,7 @@
 
 ## Description
 
-Fun small word association game build with React. The application comes with a tiny backend in an effort to protect sensitive API KEY information on the server side. Though `.env` file enables us to hide the key, this sensitive information can still be easily obtianed through static files in dev tools.
+Fun small word association game application built with React. The application comes with a tiny backend to protect sensitive API KEY information on the server side. Though `.env` file helps us hide sensitive information such as an API key linked to a credit card account on the client side, this sensitive information can still be easily obtianed through a quick look at the static files through dev tools.
 
 ## Tests
 
